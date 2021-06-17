@@ -1,0 +1,2 @@
+# Declarevariables
+Déclarer des variables 
